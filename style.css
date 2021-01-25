@@ -63,14 +63,14 @@ a:hover {
 }
 
 .link_btn{
-	background: #8DAB7F;
+	background: #F2A22C;
 	padding:10px 20px;
 	margin: 50px auto;
 	border-radius: 4%;
 	color: black;
 }
 .link_btn:hover{
-	background: #2A580F;
+	background: #ffaa32;
 	color:white;
 
 }
