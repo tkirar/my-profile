@@ -12,9 +12,9 @@ h1{
 	color: black;
 }
 h2{
-	color:#001C55;
+	color:#0056D2;
 	font-size: 30px;
-	font-family: new roman;
+	font-family: lato;
 	font-weight: bolder;
 	letter-spacing: 3px;
 	}
@@ -48,7 +48,7 @@ a:hover {
 
 .card_white{
 	border: 0px solid black;
-	background: #CED5DD;
+	background: #F5F5F5;
 	padding: 20px;
 	text-align: center;
 	border-radius: 4px;
